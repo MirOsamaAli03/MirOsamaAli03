@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Current Focus
-- 🧠 **AI in Healthcare** — Alzheimer's Disease prediction using Hybrid Vision Transformers + CNNs on 3D MRI data  
+- 🧠 **AI in Healthcare** — Working on Alzhemier Diease prediction and Dyslexia AI
 - 📚 Expanding into **DevOps & Cloud** — Kubernetes, GitOps, AWS  
 - 🎨 Experimenting with **GANs & VAEs** for synthetic data generation  
 - 📈 Automating **EDA & Data Cleaning Pipelines** for real-world datasets  
@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://your-portfolio-link.com) | [Email](mailto:youremail@example.com)  
+[LinkedIn](https://linkedin.com/in/mir-osama-ali-6a2a28365)| [Email](mailto:mirosamaali25@gmail.com)  
 
 ---
 
