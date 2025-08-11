@@ -52,17 +52,19 @@
 ---
 
 ## 📌 Featured Projects
-- 🖼 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/)  
+- 🧠 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 
-- 🎓 **EduFlare** — EduFlare is a project that allows students to get personalized flashcards for quizzes, tests, and study sessions  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/MirOsamaAli03/EduFlare)  
+- 🎓 **EduFlare** — EduFlare is a project that allows students to get personalized flashcards for quizzes, tests, and study sessions 
+  [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirOsamaAli03/EduFlare)  
+  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirosamaali25@gmail.com)  
+
 
 ---
 
