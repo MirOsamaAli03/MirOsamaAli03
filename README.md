@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/mir-osama-ali-6a2a28365)| [Email](mailto:mirosamaali25@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)| [Email](mailto:mirosamaali25@gmail.com)  
 
 ---
 
