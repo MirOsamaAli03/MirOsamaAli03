@@ -73,6 +73,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirOsamaAli03&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirOsamaAli03&layout=compact&theme=radical&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MirOsamaAli03&theme=radical&hide_border=true)  
+![trophy](https://github-profile-trophy.vercel.app/?username=MirOsamaAli03&theme=radical&no-frame=true&margin-w=15)
+
 
 ---
 
