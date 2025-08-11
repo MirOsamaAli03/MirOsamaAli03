@@ -53,10 +53,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🖼 **Alzheimer's MRI Classification** — Hybrid Vision Transformer + CNNs for early diagnosis [🔗 Link](https://github.com/your-repo-link)
-- 🐕 **Pascal VOC 2008 Classification with GAN Augmentation** — Improving mAP with synthetic training data [🔗 Link](https://github.com/your-repo-link)
-- 📊 **Automated EDA & Cleaning Tool** — One-click dataset profiling & visualization [🔗 Link](https://github.com/your-repo-link)
-- 🌐 **Donation Management Platform** — Accepting USDT, Easypaisa, and bank transfers [🔗 Link](https://github.com/your-repo-link)
+- 🖼 **Alzheimer's MRI Classification**  Hybrid Vision Transformer + CNNs for early diagnosis [🔗 Link](https://github.com/)
+- 🎓 [EduFlare](https://github.com/MirOsamaAli/EduFlare) An AI-powered learning platform designed to make education more interactive and personalized. [🔗 Link](https://github.com/MirOsamaAli03/EduFlare)
+
 
 ---
 
