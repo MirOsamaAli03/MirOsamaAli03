@@ -55,7 +55,7 @@
 - 🖼 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
   [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/)  
 
-- 🎓 **EduFlare** — AI-powered learning platform for interactive and personalized education  
+- 🎓 **EduFlare** — EduFlare is a project that allows students to get personalized flashcards for quizzes, tests, and study sessions  
   [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/MirOsamaAli03/EduFlare)  
 
 ---
