@@ -54,7 +54,7 @@
 
 ## 📌 Featured Projects
 - 🖼 **Alzheimer's MRI Classification**  Hybrid Vision Transformer + CNNs for early diagnosis [🔗 Link](https://github.com/)
-- 🎓 [EduFlare](https://github.com/MirOsamaAli/EduFlare) An AI-powered learning platform designed to make education more interactive and personalized. [🔗 Link](https://github.com/MirOsamaAli03/EduFlare)
+- 🎓 **EduFlare** An AI-powered learning platform designed to make education more interactive and personalized. [🔗 Link](https://github.com/MirOsamaAli03/EduFlare)
 
 
 ---
