@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Current Focus
-- 🧠 **AI in Healthcare** — Working on Alzhemier Diease prediction and Dyslexia AI
+- 🧠 **AI in Healthcare** — Working on Alzheimer's Disease prediction and Dyslexia AI
 - 📚 Expanding into **DevOps & Cloud** — Kubernetes, GitOps, AWS  
 - 🎨 Experimenting with **GANs & VAEs** for synthetic data generation  
 - 📈 Automating **EDA & Data Cleaning Pipelines** for real-world datasets  
@@ -49,24 +49,27 @@
 ![ANTs](https://img.shields.io/badge/ANTs-ff6600?style=for-the-badge&logoColor=white)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-000000?style=for-the-badge&logoColor=white)
 
-
 ---
 
 ## 📌 Featured Projects
-- 🖼 **Alzheimer's Diease Detection**  Hybrid Vision Transformer + CNNs for early diagnosis [🔗 Link](https://github.com/)
-- 🎓 **EduFlare** An AI-powered learning platform designed to make education more interactive and personalized. [🔗 Link](https://github.com/MirOsamaAli03/EduFlare)
+- 🖼 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/)  
 
+- 🎓 **EduFlare** — AI-powered learning platform for interactive and personalized education  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/MirOsamaAli03/EduFlare)  
 
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)| [Email](mailto:mirosamaali25@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirosamaali25@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirOsamaAli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirOsamaAli&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirOsamaAli&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirOsamaAli&layout=compact&theme=radical&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MirOsamaAli&theme=radical&hide_border=true)  
 
 ---
 
