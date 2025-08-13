@@ -64,7 +64,7 @@
 
 ## 📌 Featured Projects
 - 🧠 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirOsamaAli03/Alzheimer-s-Disease-Detection-)  
 
 - 🎓 **EduFlare** — EduFlare allows students to get personalized flashcards for quizzes, tests, and study sessions  
   [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirOsamaAli03/EduFlare)  
