@@ -24,6 +24,14 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### 🤖 ML/DL Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -36,16 +44,19 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009999?style=for-the-badge&logo=seaborn&logoColor=white)
 
+### 🕵 Web Scraping & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8CA1AF?style=for-the-badge&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/OS_Module-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🛠 Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![ANTs](https://img.shields.io/badge/ANTs-ff6600?style=for-the-badge&logoColor=white)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-000000?style=for-the-badge&logoColor=white)
 
@@ -55,9 +66,8 @@
 - 🧠 **Alzheimer's Disease Detection** — Hybrid Vision Transformer + CNNs for early diagnosis  
   [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 
-- 🎓 **EduFlare** — EduFlare is a project that allows students to get personalized flashcards for quizzes, tests, and study sessions 
+- 🎓 **EduFlare** — EduFlare allows students to get personalized flashcards for quizzes, tests, and study sessions  
   [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirOsamaAli03/EduFlare)  
-  
 
 ---
 
@@ -65,16 +75,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-osama-ali-6a2a28365/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirosamaali25@gmail.com)  
 
-
 ---
 
 ## 📊 GitHub Stats    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirOsamaAli03&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirOsamaAli03&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirOsamaAli03&layout=compact&theme=radical&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MirOsamaAli03&theme=radical&hide_border=true)  
-![trophy](https://github-profile-trophy.vercel.app/?username=MirOsamaAli03&theme=radical&no-frame=true&margin-w=15)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=MirOsamaAli03&theme=radical&no-frame=true&margin-w=15)  
 
 ---
 
