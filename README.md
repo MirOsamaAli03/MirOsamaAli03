@@ -8,7 +8,7 @@
 
 ## 🚀 Current Focus
 - 🧠 **AI in Healthcare** — Working on Alzheimer's Disease prediction and Dyslexia AI
-- 📚 Expanding into **DevOps & Cloud** — Kubernetes, GitOps, AWS  
+- 📚 Expanding into **DevOps & Cloud** — Kubernetes, GitOps, AWS and MLOps
 - 🎨 Experimenting with **GANs & VAEs** for synthetic data generation  
 - 📈 Automating **EDA & Data Cleaning Pipelines** for real-world datasets  
 
